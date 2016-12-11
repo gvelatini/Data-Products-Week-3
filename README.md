@@ -8,7 +8,7 @@ This folder contains the following files:
 
 ####earthquakes.html
 
-Leaflet map highlighting ballet companies in NYC.  The map includes 
+plotly map representing worldwide earthquake activity in 2016.  The map includes 
 
 - Variable radius circle markers
 - hover over markers to see location and magnitude
